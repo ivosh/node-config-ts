@@ -809,12 +809,12 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
-"@types/ramda@^0.26.19":
-  version "0.26.19"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.19.tgz#400580597566c016e9743f17c1c48bf4671cda81"
-  integrity sha512-lJuMZDXqZ8W2hl0Gz+wEPUhXcf/tZRuaO5vrxFD3Dv2XMqgTZVw+bvfS6iQAsio9XQV+uhkggtT4eLhDmUpI5g==
+"@types/ramda@^0.26.24":
+  version "0.26.24"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.24.tgz#91fc840e2b51468a5af096f582ac5761b4bd60bd"
+  integrity sha512-AzpYQznZDeAwLMCYNmGYR/qk6Z+wrvVxvXURIWztJGNY8RfEyKIcZST9Acyn5RsPmJu1fnhKwTSUkPFaVBoyhQ==
   dependencies:
-    ts-toolbelt "^3.2.22"
+    ts-toolbelt "^4.3.0"
 
 "@types/source-list-map@*":
   version "0.1.2"
@@ -6248,10 +6248,10 @@ ts-node@^8.3.0:
     source-map-support "^0.5.6"
     yn "^3.0.0"
 
-ts-toolbelt@^3.2.22:
-  version "3.8.3"
-  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-3.8.3.tgz#7f87689f0432932e9d8936582d78d1ba90a9b2d9"
-  integrity sha512-/MnLA9Pr7ppDIxMf8sGSbNoiQDORQtzdcma8IsepArmikqZbu7CiwP+aAYaZnVXjOxLAleIEyxe20LJx0WgcCw==
+ts-toolbelt@^4.3.0:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-4.4.2.tgz#ae753e03fcba185743916013d210b644b2e31777"
+  integrity sha512-rXV+F5OYWYMFEwD712h4Mbk8VUtJW5w+0NCrxuCNAFx/JcPXCAN+vH9eToweb88h6GJwGmRFkbTXNkuG5/bIIw==
 
 tslib@^1.9.0:
   version "1.10.0"
